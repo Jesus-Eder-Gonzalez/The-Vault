@@ -1,6 +1,6 @@
 'use strict';
 module.exports = function () {
-    var val = {};
+    const val = {};
 
     return {
         setValue: setValue,
